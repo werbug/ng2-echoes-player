@@ -1,0 +1,12 @@
+{
+  "name": "echoes-ng2",
+  "version": "3.0.0",
+  "description": "Echoes Ng2",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server --config=./bs-config.js"
+  },
+  "dependencies": {
+    "lite-server": "2.2.2"
+  }
+}
